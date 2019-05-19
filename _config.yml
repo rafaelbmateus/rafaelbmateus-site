@@ -3,7 +3,7 @@ title: Rafael B. Mateus
 email: rafaelbmateus.dev@gmail.com
 description: Rafael B. Mateus Website
 baseurl: "/rafaelbmateus-site" # the subpath of your site, e.g. /blog
-url: "www.rafaelbmateus.com.br" # the base hostname & protocol for your site
+url: "https://rafaelbmateus.gitlab.io/rafaelbmateus-site" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
