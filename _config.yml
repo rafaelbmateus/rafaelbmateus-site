@@ -1,14 +1,14 @@
 # Site settings
-title: Rafael B. Mateus
+title: Rafael Mateus - Software Developer
 email: rafaelbmateus.dev@gmail.com
-description: Rafael B. Mateus Website
+description: Website Rafael Mateus - Software Developer
 baseurl: "/rafaelbmateus-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url: https://facebook.com/rafaelbmateus
-github_url:
+github_url: https://github.com/rafaelbmateus
 gitlab_url: https://gitlab.com/u/rafaelbmateus
 googleplus_url: 
 instagram_url: https://instagram.com/rafaelbmateus
